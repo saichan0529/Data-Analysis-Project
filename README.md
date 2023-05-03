@@ -6,3 +6,5 @@ The sales data for 1559 products across 10 stores in different cities has been c
 
 DATASET:
 https://www.kaggle.com/datasets/akashdeepkuila/big-mart-sales
+
+Colab link - https://colab.research.google.com/drive/1Ug2s40KQ-yX0aTQo1k29_5HNUhKs48su#scrollTo=2CwNbGpyzX0U
